@@ -7,5 +7,3 @@
 |_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_(_)
                     |/                                
 </pre>
-
-As I learn new programming languages, I put my first programs here.
